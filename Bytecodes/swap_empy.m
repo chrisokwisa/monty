@@ -1,0 +1,4 @@
+push
+pall
+swap
+pall
